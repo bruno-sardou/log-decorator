@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "log-decorator"
+name = "bs-log-decorator"
 version = "0.1.0"
 authors = [
   { name = "Bruno Sardou", email = "bruno.sardou@outlook.com" },
